@@ -2,7 +2,7 @@ name: necrophilia
 description:
   Provides common useless widgets built with macros.
   This package is useless while macros is experimental.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/innerwilds/necrophilia
 
 environment:
