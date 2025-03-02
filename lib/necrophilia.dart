@@ -9,12 +9,13 @@ import '_builder.dart';
 // ignore: camel_case_types
 abstract interface class __NECROPHILIA__ {}
 
+// Not related to macros, just a circle.
 final class Circle extends LeafRenderObjectWidget {
   const Circle({
     super.key,
     required this.color,
     required this.radius,
-  }) : assert(radius != double.infinity, "radius can't be infinite");
+  }) : assert(radius != double.infinity, "radius must be finite");
 
   const Circle.fit({
     super.key,

@@ -1,3 +1,9 @@
+## This is an example of macros
+
+What awesome possibilities would macros provide?
+
+BTW, macros development was discontinued.
+
 ## Stillborn Creature.
 
 In this pack you will find the following useless things:
